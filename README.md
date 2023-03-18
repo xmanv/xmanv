@@ -5,11 +5,11 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=xmanv&show_icons=true&theme=monokai" />
 
 
-一直努力成长中🧑‍💻
+努力搬砖ING🧑‍💻
 
 下边是我的联系方式，欢迎一起交流学习
 
-- 💬WeChat: Tywin
+- 💬WeChat: Jaqun
 - 📝[My blog](https://www.xmanv.com/)
 - 📮Email: xmanv@163.com
 
