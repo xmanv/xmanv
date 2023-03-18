@@ -1,4 +1,4 @@
-![header](./header.png)
+![header](./headerNew.png)
 
 ### Hi there, I'm Tywin 👋
 
