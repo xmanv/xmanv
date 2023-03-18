@@ -1,4 +1,4 @@
-![header](./headerNew.png)
+![header](./headerNews.png)
 
 ### Hi there, I'm Tywin 👋
 
