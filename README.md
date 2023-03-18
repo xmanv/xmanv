@@ -2,7 +2,7 @@
 
 ### Hi there, I'm Tywin 👋
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=xmanv&show_icons=true&theme=cobalt" />
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=xmanv&show_icons=true&theme=monokai" />
 
 
 一直努力成长中🧑‍💻
