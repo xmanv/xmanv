@@ -1,6 +1,6 @@
 ![header](./headerNews.png)
 
-### Hi there, I'm Tywin 👋
+### Hi there, I'm Ashin 👋
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=xmanv&show_icons=true&theme=monokai" />
 
@@ -8,9 +8,9 @@
 
 下边是我的联系方式，欢迎一起交流学习
 
-- 💬WeChat: Jaqun
+- 💬WeChat: Ashin
 - 📝[My blog](https://www.xmanv.com/)
-- 📮Email: xmanv@163.com
+- 📮Email: Ashin@163.com
 
 ### Technology stack:
 
