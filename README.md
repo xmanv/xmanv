@@ -9,7 +9,7 @@
 下边是我的联系方式，欢迎一起交流学习
 
 - 💬WeChat: Ashin
-- 📝[My blog](https://www.xmanv.com/)
+- 📝[My blog](https://www.x.com/)
 - 📮Email: Ashin@163.com
 
 ### Technology stack:
